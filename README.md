@@ -14,9 +14,9 @@
 
 </div>
 
-## 🏃 Intro OmniSVG
+## 🏃 Intro StyleMe3D
 
-**OmniSVG** is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
+**StyleMe3D** is a holistic framework for 3D Gaussian Splatting style transfer that achieves scalable, semantically coherent, and perceptually enhanced stylization by disentangling multi-level semantics using multiple encoder experts namely **diffusion encoder**, **style encoder**, **vision encoder** and **quality encoder**. 
 
 
 <p align="center">
