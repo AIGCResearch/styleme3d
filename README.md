@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href='https://arxiv.org/abs/xxxx.xxxxx'><img src='https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://arxiv.org/abs/2504.15281'><img src='https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://styleme3d.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
@@ -35,7 +35,7 @@
 @article{zhuang2025styleme3d,
   title={StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians}, 
   author={Cailin Zhuang and Yaoqi Hu and Xuanyang Zhang and Wei Cheng and Jiacheng Bao and Shengqi Liu and Yiying Yang and Xianfang Zeng and Gang Yu and Ming Li},
-  journal={arXiv preprint arxiv:xxxx.xxxxx},
+  journal={arXiv preprint arxiv:2504.15281}, 
   year={2025}
 }
 ```
